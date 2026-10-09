@@ -154,9 +154,9 @@ export const products: Product[] = [
     brand: 'UrbanCraft',
     rating: 4.6,
     reviewCount: 310,
-    image: 'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80',
+    image: 'https://plus.unsplash.com/premium_photo-1718913936342-eaafff98834b?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     images: [
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80',
+      'https://plus.unsplash.com/premium_photo-1718913936342-eaafff98834b?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=800&q=80',
       'https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80',
     ],
@@ -249,9 +249,9 @@ export const products: Product[] = [
     brand: 'HomeCraft',
     rating: 4.8,
     reviewCount: 94,
-    image: 'https://images.unsplash.com/photo-1580481077194-469b9c97b83d?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1688578735427-994ecdea3ea4?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     images: [
-      'https://images.unsplash.com/photo-1580481077194-469b9c97b83d?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1688578735427-994ecdea3ea4?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       'https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&w=800&q=80',
     ],
     description: 'High-back ergonomic mesh office chair engineered with dynamic lumbar support, 3D adjustable armrests, and synchro-tilt mechanism for healthy posture.',
@@ -272,9 +272,9 @@ export const products: Product[] = [
     brand: 'HomeCraft',
     rating: 4.7,
     reviewCount: 135,
-    image: 'https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1635749886064-8debe661b70e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     images: [
-      'https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1635749886064-8debe661b70e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     ],
     description: '500ml ultrasonic aromatherapy essential oil diffuser with ambient 7-color LED lights, 4 timer settings, and ultra-quiet operation.',
     features: [
